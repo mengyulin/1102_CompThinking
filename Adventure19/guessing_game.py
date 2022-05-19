@@ -1,6 +1,6 @@
 # coding: utf-8
 from random import randint
-def game():
+def game ():
     ans = randint(1, 100)
     guess = -1
 
